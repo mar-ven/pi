@@ -10,6 +10,7 @@ See the OPTIONS section for further informations.
 [SYNOPSIS]: pi [OPTION] ... NUMBER
 
 OPTIONS:
+
      -l separates results with line separators
      
      -c separates result with the character tat is given in the next parameter.
