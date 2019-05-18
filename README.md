@@ -24,4 +24,5 @@ NUMBER is the quantity of prime numbers needed.
 
 
 Any comments are welcome.
+
 Thank you for your support!
