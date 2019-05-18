@@ -8,6 +8,7 @@ User can customize output, and get useful information in the standard error stre
 See the OPTIONS section for further informations.
 
 [SYNOPSIS]: pi [OPTION] ... NUMBER
+
 OPTIONS:
      -l separates results with line separators
      -c separates result with the character tat is given in the next parameter.
@@ -24,5 +25,4 @@ NUMBER is the quantity of prime numbers needed.
 
 
 Any comments are welcome.
-
 Thank you for your support!
