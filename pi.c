@@ -66,7 +66,7 @@ void displayHelp() {
     "        It seems to be slower, and so I don't suggest to use it.\n"
     "NUMBER is the quantity of prime numbers needed.\n"
     "        It needs to be the last argument.\n"
-    "        For example: 'pi 5 prints the first 5 prime numbers, starting from 1:\n"
+    "        For example: 'pi 5' prints the first 5 prime numbers, starting from 1:\n"
     "        1 2 3 5 7\n"
     "\n\n"
     "Any comments are welcome.\n"
