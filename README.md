@@ -18,6 +18,7 @@ OPTIONS:
         It could be useful if the output is passed to a file, and a great quantity of prime numbers is requested.
      -m Uses the M-algorithm. It calculates prime numbers going through the previously calculated ones.
         It seems to be slower, and so I don't suggest to use it.
+        
 NUMBER is the quantity of prime numbers needed.
         It needs to be the last argument.
         For example: 'pi 5 prints the first 5 prime numbers, starting from 1:
