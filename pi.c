@@ -124,7 +124,6 @@ void calc_M_alg(int numb, int *results, char c, int err_out) {
 
     while(times < numb) {
         for(int j = 1; j < times - 1; j++) {
-            int m = results[j];
             if(i % results[j] == 0)
                 isPrime = 0;
         }
